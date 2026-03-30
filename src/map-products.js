@@ -53,6 +53,14 @@ function buildProductUrl(handle) {
   return `${storeUrl}/produtos/${normalizedHandle}`;
 }
 
+function buildVariantUrl(productLink, variant) {
+  const variantId = firstDefined(variant?.id, variant?.variant_id);
+  if (!productLink || !variantId) return productLink;
+
+  const separator = productLink.includes("?") ? "&" : "?";
+  return `${productLink}${separator}variant=${variantId}`;
+}
+
 function getMainImage(product, variant) {
   const variantImage = firstDefined(
     variant?.image?.src,
@@ -94,7 +102,7 @@ function buildVariantTitle(productName, variant) {
   const uniqueParts = [...new Set(parts.filter(Boolean))];
 
   return uniqueParts.length
-    ? `${productName} - ${uniqueParts.join(" / ")}`
+    ? `${productName} (${uniqueParts.join(" / ")})`
     : productName;
 }
 
@@ -123,7 +131,7 @@ function buildBaseItem(product) {
   const brand = getBrand(product);
 
   return {
-    baseId: String(product.id),
+    productId: String(product.id),
     title: name,
     description,
     link,
@@ -141,7 +149,7 @@ function mapSimpleProduct(product, baseItem) {
   if (!baseItem.title || !imageLink || !price) return null;
 
   return {
-    id: baseItem.baseId,
+    id: baseItem.productId,
     title: baseItem.title,
     description: baseItem.description,
     availability: normalizeAvailability(stock),
@@ -162,15 +170,17 @@ function mapVariantProduct(product, baseItem, variant) {
 
   if (!imageLink || !price) return null;
 
+  const variantId = firstDefined(variant.id, variant.variant_id);
+
   return {
-    id: String(firstDefined(variant.sku, variant.id, `${product.id}-variant`)),
+    id: String(variantId ?? `${product.id}-variant`),
     title: buildVariantTitle(baseItem.title, variant),
     description: baseItem.description,
     availability: normalizeAvailability(stock),
     condition: baseItem.condition,
     price,
     salePrice: variant.promotional_price ? normalizePrice(variant.promotional_price) : null,
-    link: baseItem.link,
+    link: buildVariantUrl(baseItem.link, variant),
     imageLink,
     brand: baseItem.brand,
     itemGroupId: baseItem.itemGroupId
