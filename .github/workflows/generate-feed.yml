@@ -3,7 +3,7 @@ name: Generate Meta Feed
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
@@ -34,7 +34,7 @@ jobs:
           DEFAULT_BRAND: ${{ secrets.DEFAULT_BRAND }}
           CURRENCY: BRL
           PAGE_SIZE: 200
-        run: npm run generate
+        run: node src/index.js
 
       - name: Commit updated feed
         run: |
