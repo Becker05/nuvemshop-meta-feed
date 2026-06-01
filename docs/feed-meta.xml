@@ -2637,7 +2637,7 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>499.90 BRL</g:price>
-      
+      <g:sale_price>399.90 BRL</g:sale_price>
       <g:link>https://vessac.com.br/produtos/colarelosorganicovittoria?variant=1223773139</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-1080x1350-16-3bb01801015e93c05717488094323005-1024-1024.png</g:image_link>
       <g:brand>VESSAC</g:brand>
@@ -2650,7 +2650,7 @@
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>499.90 BRL</g:price>
-      
+      <g:sale_price>399.90 BRL</g:sale_price>
       <g:link>https://vessac.com.br/produtos/colarelosorganicovittoria?variant=1223773134</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-1080x1350-16-3bb01801015e93c05717488094323005-1024-1024.png</g:image_link>
       <g:brand>VESSAC</g:brand>
@@ -3749,19 +3749,6 @@
       <g:item_group_id>292055610</g:item_group_id>
     </item>
     <item>
-      <g:id>1314383871</g:id>
-      <g:title>Colar Arkos 48cm</g:title>
-      <g:description>O Arkos nasce da for&amp;ccedil;a arquitet&amp;ocirc;nica dos elos quadrados, traduzindo estrutura e fluidez em uma mesma pe&amp;ccedil;a. Um design escultural que molda o pesco&amp;ccedil;o com s&amp;iacute;mbolo de firmeza, magnetismo e eternidade. Arkos n&amp;atilde;o &amp;eacute; apenas um colar: &amp;Eacute; passagem. &amp;Eacute; presen&amp;ccedil;a. &amp;nbsp; CARACTER&amp;Iacute;STICAS Colar banhado em ouro 18K ou r&amp;oacute;dio branco Comprimento do colar 48cm (6cm de extensor) Largura do ret&amp;acirc;ngilo 1,5cm Comprimento:2,3cm Peso: 150g Fecho lagosta - f&amp;aacute;cil de manusear BENEF&amp;Iacute;CIOS Para o seu dia at&amp;eacute; noite mais pr&amp;aacute;tica e sofisticada Garantia de 12 meses sobre o banho Hipoalerg&amp;ecirc;nico &amp;bull; Sem n&amp;iacute;quel &amp;bull; Produzido no Brasil Instru&amp;ccedil;&amp;otilde;es de cuidado: Evite contato direto com perfumes, cremes e produtos de limpeza. Se necess&amp;aacute;rio, lave suavemente com &amp;aacute;gua e sab&amp;atilde;o neutro, secando bem em seguida. Guarde em saquinho macio ou porta-joias, livre de umidade, preservando o banho e o brilho original.</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>419.00 BRL</g:price>
-      <g:sale_price>379.00 BRL</g:sale_price>
-      <g:link>https://vessac.com.br/produtos/colararkos?variant=1314383871</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-1080x1350-2-c19e4723d11d93212317579725661759-1024-1024.jpg</g:image_link>
-      <g:brand>VESSAC</g:brand>
-      <g:item_group_id>294186333</g:item_group_id>
-    </item>
-    <item>
       <g:id>1320282786</g:id>
       <g:title>Brinco Rosalie Pequeno</g:title>
       <g:description>Gesto da delicadeza em uma escultura org&amp;acirc;nica e marcante. Seu design floral, volumoso e fluido revela formas que se desdobram como p&amp;eacute;talas, traduzindo feminilidade com for&amp;ccedil;a sutil. Leve ao toque e confort&amp;aacute;vel no uso, pensado para iluminar o rosto com naturalidade. Ideal para quem valoriza acess&amp;oacute;rios que transcendem tend&amp;ecirc;ncias e permanecem no tempo &amp;mdash; do encontro casual ao evento especial. Rosalie n&amp;atilde;o segue modismos: ela floresce. &amp;nbsp; CARACTER&amp;Iacute;STICAS Brinco de luxo banhado em ouro 18K ou r&amp;oacute;dio branco Comprimento 1,5cm e largura 1,4cm&amp;nbsp; - tamanho pequeno Tarraxa maior para trazer conforto e seguran&amp;ccedil;a BENEF&amp;Iacute;CIOS Para o seu dia at&amp;eacute; noite mais pr&amp;aacute;tica e sofisticada Garantia de 12 meses sobre o banho Fecho de tarraxa &amp;bull; Hipoalerg&amp;ecirc;nico &amp;bull; Sem n&amp;iacute;quel &amp;bull; Produzido no Brasil Instru&amp;ccedil;&amp;otilde;es de cuidado: Evite contato direto com perfumes, cremes e produtos de limpeza. Se necess&amp;aacute;rio, lave suavemente com &amp;aacute;gua e sab&amp;atilde;o neutro, secando bem em seguida. Guarde em saquinho macio ou porta-joias, livre de umidade, preservando o banho e o brilho original.</g:description>
@@ -3794,7 +3781,7 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>347.00 BRL</g:price>
-      
+      <g:sale_price>299.90 BRL</g:sale_price>
       <g:link>https://vessac.com.br/produtos/colarnexus?variant=1322769174</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-1080x1350-31-2e0d1c39336d7f4c9717588285218876-1024-1024.jpg</g:image_link>
       <g:brand>VESSAC</g:brand>
@@ -3807,7 +3794,7 @@
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>347.00 BRL</g:price>
-      
+      <g:sale_price>299.90 BRL</g:sale_price>
       <g:link>https://vessac.com.br/produtos/colarnexus?variant=1322769183</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-1080x1350-31-2e0d1c39336d7f4c9717588285218876-1024-1024.jpg</g:image_link>
       <g:brand>VESSAC</g:brand>
@@ -4236,7 +4223,7 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>319.90 BRL</g:price>
-      
+      <g:sale_price>289.90 BRL</g:sale_price>
       <g:link>https://vessac.com.br/produtos/pulseiraelosorganicovittoria?variant=1410376768</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-2350x3000-19-a4539317dd08c244b317683981619777-1024-1024.jpg</g:image_link>
       <g:brand>VESSAC</g:brand>
@@ -4249,24 +4236,11 @@
       <g:availability>out of stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>319.90 BRL</g:price>
-      
+      <g:sale_price>289.90 BRL</g:sale_price>
       <g:link>https://vessac.com.br/produtos/pulseiraelosorganicovittoria?variant=1410376760</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-2350x3000-19-a4539317dd08c244b317683981619777-1024-1024.jpg</g:image_link>
       <g:brand>VESSAC</g:brand>
       <g:item_group_id>318317300</g:item_group_id>
-    </item>
-    <item>
-      <g:id>1430835797</g:id>
-      <g:title>Colar Clair Pérola Alongada 42cm</g:title>
-      <g:description>Clair, de origem francesa, significa claro, luminoso, evidente . Um nome que traduz beleza, suavidade e presen&amp;ccedil;a. Feito &amp;agrave; m&amp;atilde;o com p&amp;eacute;rolas sint&amp;eacute;ticas de acabamento acetinado e formato alongado, o colar cria uma linha cont&amp;iacute;nua e equilibrada sobre a pele. Atemporal e vers&amp;aacute;til, Clair acompanha o cotidiano e momentos especiais com a mesma naturalidade. &amp;nbsp; CARACTER&amp;Iacute;STICAS Feito &amp;agrave; m&amp;atilde;o com p&amp;eacute;rolas alongadas sint&amp;eacute;tica em formato arroz banhado em ouro 18K&amp;nbsp; P&amp;eacute;rola sint&amp;eacute;tica Comprimento 42cm (3cm de extensor) Fecho lagosta - f&amp;aacute;cil de manusear BENEF&amp;Iacute;CIOS Presen&amp;ccedil;a sofisticada para o dia e a noite Hipoalerg&amp;ecirc;nico &amp;bull; Sem n&amp;iacute;quel&amp;nbsp; Produzido no Brasil com garantia de 12 meses sobre o banho CUIDADOS COM A PE&amp;Ccedil;A Evite contato com perfumes, cremes ou produtos de limpeza Para limpeza, use &amp;aacute;gua e sab&amp;atilde;o neutro. Seque com pano macio Guarde em local seco, em saquinho de tecido ou porta-joias</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>189.90 BRL</g:price>
-      
-      <g:link>https://vessac.com.br/produtos/colarclairperolaalongado?variant=1430835797</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-2350x3000-11-38baa0fa6a82f48b7917701495769477-1024-1024.jpg</g:image_link>
-      <g:brand>VESSAC</g:brand>
-      <g:item_group_id>322839212</g:item_group_id>
     </item>
     <item>
       <g:id>1437919635</g:id>
@@ -4503,32 +4477,6 @@
       <g:item_group_id>328117279</g:item_group_id>
     </item>
     <item>
-      <g:id>1460825071</g:id>
-      <g:title>Brinco Rosalie Orgânico Grande</g:title>
-      <g:description>Gesto da delicadeza em uma escultura org&amp;acirc;nica e marcante. Seu design floral, volumoso e fluido revela formas que se desdobram como p&amp;eacute;talas, traduzindo feminilidade com for&amp;ccedil;a sutil. Leve ao toque e confort&amp;aacute;vel no uso, pensado para iluminar o rosto com naturalidade. Ideal para quem valoriza acess&amp;oacute;rios que transcendem tend&amp;ecirc;ncias e permanecem no tempo &amp;mdash; do encontro casual ao evento especial. Rosalie n&amp;atilde;o segue modismos: ela floresce. &amp;nbsp; CARACTER&amp;Iacute;STICAS Brinco com design de flor org&amp;acirc;nica banhado em ouro 18K ou r&amp;oacute;dio branco Tarraxa com 8,2mm, facilita o uso e proporciona um conforto e sustenta&amp;ccedil;&amp;atilde;o. BENEF&amp;Iacute;CIOS Presen&amp;ccedil;a sofisticada para o dia e a noite Hipoalerg&amp;ecirc;nico &amp;bull; Sem n&amp;iacute;quel &amp;bull; Produzido no Brasil Produzido no Brasil com garantia de 12 meses sobre o banho CUIDADOS COM A PE&amp;Ccedil;A Evite contato com perfumes, cremes ou produtos de limpeza Para limpeza, use &amp;aacute;gua e sab&amp;atilde;o neutro. Seque com pano macio Guarde em local seco, em saquinho de tecido ou porta-joias</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>349.90 BRL</g:price>
-      
-      <g:link>https://vessac.com.br/produtos/brincorosaliegrande?variant=1460825071</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-2350x3000-24-92559cd0d335d6f32817722412442129-1024-1024.jpg</g:image_link>
-      <g:brand>VESSAC</g:brand>
-      <g:item_group_id>328407339</g:item_group_id>
-    </item>
-    <item>
-      <g:id>1460827898</g:id>
-      <g:title>Brinco Rosalie Orgânico Grande</g:title>
-      <g:description>Gesto da delicadeza em uma escultura org&amp;acirc;nica e marcante. Seu design floral, volumoso e fluido revela formas que se desdobram como p&amp;eacute;talas, traduzindo feminilidade com for&amp;ccedil;a sutil. Leve ao toque e confort&amp;aacute;vel no uso, pensado para iluminar o rosto com naturalidade. Ideal para quem valoriza acess&amp;oacute;rios que transcendem tend&amp;ecirc;ncias e permanecem no tempo &amp;mdash; do encontro casual ao evento especial. Rosalie n&amp;atilde;o segue modismos: ela floresce. &amp;nbsp; CARACTER&amp;Iacute;STICAS Brinco com design de flor org&amp;acirc;nica banhado em ouro 18K ou r&amp;oacute;dio branco Tarraxa com 8,2mm, facilita o uso e proporciona um conforto e sustenta&amp;ccedil;&amp;atilde;o. BENEF&amp;Iacute;CIOS Presen&amp;ccedil;a sofisticada para o dia e a noite Hipoalerg&amp;ecirc;nico &amp;bull; Sem n&amp;iacute;quel &amp;bull; Produzido no Brasil Produzido no Brasil com garantia de 12 meses sobre o banho CUIDADOS COM A PE&amp;Ccedil;A Evite contato com perfumes, cremes ou produtos de limpeza Para limpeza, use &amp;aacute;gua e sab&amp;atilde;o neutro. Seque com pano macio Guarde em local seco, em saquinho de tecido ou porta-joias</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>349.90 BRL</g:price>
-      
-      <g:link>https://vessac.com.br/produtos/brincorosaliegrande?variant=1460827898</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-2350x3000-24-92559cd0d335d6f32817722412442129-1024-1024.jpg</g:image_link>
-      <g:brand>VESSAC</g:brand>
-      <g:item_group_id>328407339</g:item_group_id>
-    </item>
-    <item>
       <g:id>1461140425</g:id>
       <g:title>Brinco Rosas Vertical 2 Formas de Usar</g:title>
       <g:description>Brinco Rosas Vertical com design escultural e vers&amp;aacute;til. Use como ponto &amp;uacute;nico ou com extens&amp;atilde;o. Flores em sua forma mais arquitet&amp;ocirc;nica &amp;nbsp; CARACTER&amp;Iacute;STICAS Brinco com design de flor banhado em ouro 18K ou r&amp;oacute;dio branco 2 formas de usar: use com ou sem a extens&amp;atilde;o vertical Tarraxa com 8,2mm, facilita o uso e proporciona um conforto e sustenta&amp;ccedil;&amp;atilde;o. BENEF&amp;Iacute;CIOS Presen&amp;ccedil;a sofisticada para o dia e a noite Hipoalerg&amp;ecirc;nico &amp;bull; Sem n&amp;iacute;quel &amp;bull; Produzido no Brasil Produzido no Brasil com garantia de 12 meses sobre o banho CUIDADOS COM A PE&amp;Ccedil;A Evite contato com perfumes, cremes ou produtos de limpeza Para limpeza, use &amp;aacute;gua e sab&amp;atilde;o neutro. Seque com pano macio Guarde em local seco, em saquinho de tecido ou porta-joias</g:description>
@@ -4571,7 +4519,7 @@
       <g:id>1471323646</g:id>
       <g:title>Bracelete Talea Orgânico</g:title>
       <g:description>Impacto e praticidade para transitar do casual ao sofisticado, acompanhando voc&amp;ecirc; do dia &amp;agrave; noite mais chic! CARACTER&amp;Iacute;STICAS Bracelete org&amp;acirc;nico mix de metais banhado em ouro 18K com detalhe r&amp;oacute;dio branco ou r&amp;oacute;dio branco com detalhe ouro 18K Comprimento 6cm Bracelete levemente flex&amp;iacute;vel Na vers&amp;atilde;o dourada, o detalhe vem em r&amp;oacute;dio branco. J&amp;aacute; na vers&amp;atilde;o prateada, o contraste se revela no banho de ouro. BENEF&amp;Iacute;CIOS Para o seu dia at&amp;eacute; noite mais pr&amp;aacute;tica e sofisticada Garantia de 12 meses&amp;nbsp; Verniz Antial&amp;eacute;rgico: Com base em pal&amp;aacute;dio, ideal para peles sens&amp;iacute;veis. N&amp;iacute;quel Free: Totalmente livre de n&amp;iacute;quel, prevenindo alergias e desconfortos. Instru&amp;ccedil;&amp;otilde;es de cuidado: Evite contato direto com perfumes, cremes e produtos de limpeza. Se necess&amp;aacute;rio, lave suavemente com &amp;aacute;gua e sab&amp;atilde;o neutro, secando bem em seguida. Guarde em saquinho macio ou porta-joias, livre de umidade, preservando o banho e o brilho original. &amp;nbsp;</g:description>
-      <g:availability>out of stock</g:availability>
+      <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>319.90 BRL</g:price>
       
@@ -4600,7 +4548,7 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>489.90 BRL</g:price>
-      <g:sale_price>399.00 BRL</g:sale_price>
+      <g:sale_price>379.90 BRL</g:sale_price>
       <g:link>https://vessac.com.br/produtos/aro-orbita?variant=1475606341</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-2350x3000-8-4acffd6c080a5cf7d817734937693778-1024-1024.jpg</g:image_link>
       <g:brand>VESSAC</g:brand>
@@ -4613,7 +4561,7 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>489.90 BRL</g:price>
-      <g:sale_price>399.00 BRL</g:sale_price>
+      <g:sale_price>379.90 BRL</g:sale_price>
       <g:link>https://vessac.com.br/produtos/aro-orbita?variant=1475606344</g:link>
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-2350x3000-8-4acffd6c080a5cf7d817734937693778-1024-1024.jpg</g:image_link>
       <g:brand>VESSAC</g:brand>
@@ -5166,32 +5114,6 @@
       <g:item_group_id>333234094</g:item_group_id>
     </item>
     <item>
-      <g:id>1481995171</g:id>
-      <g:title>Brinco Orbe Médio</g:title>
-      <g:description>Esferas em tamanhos variados criam uma leitura mais din&amp;acirc;mica na curva. Leve, est&amp;aacute;vel e f&amp;aacute;cil de usar no dia a dia. Funciona sozinho ou em composi&amp;ccedil;&amp;atilde;o, Brinco Orbe Fluxo &amp;eacute; uma varia&amp;ccedil;&amp;atilde;o da linha Orbe com mais movimento na forma. &amp;nbsp; CARACTER&amp;Iacute;STICAS Brinco com design de esfera banhado em ouro 18K ou r&amp;oacute;dio branco Tarraxa com 8,2mm, facilita o uso e proporciona um conforto e sustenta&amp;ccedil;&amp;atilde;o. Peso: 10g o par Altura: 3,3cm e Largura: 2,6cm Tamanho esfera :5mm BENEF&amp;Iacute;CIOS Presen&amp;ccedil;a sofisticada para o dia e a noite Hipoalerg&amp;ecirc;nico &amp;bull; Sem n&amp;iacute;quel &amp;bull; Produzido no Brasil Produzido no Brasil com garantia de 12 meses sobre o banho CUIDADOS COM A PE&amp;Ccedil;A Evite contato com perfumes, cremes ou produtos de limpeza Para limpeza, use &amp;aacute;gua e sab&amp;atilde;o neutro. Seque com pano macio Guarde em local seco, em saquinho de tecido ou porta-joias</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>249.90 BRL</g:price>
-      
-      <g:link>https://vessac.com.br/produtos/brinco-orbe-medio?variant=1481995171</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-2350x3000-2-98ef986cbfa36c47da17741277697607-1024-1024.jpg</g:image_link>
-      <g:brand>VESSAC</g:brand>
-      <g:item_group_id>333235408</g:item_group_id>
-    </item>
-    <item>
-      <g:id>1481995168</g:id>
-      <g:title>Brinco Orbe Médio</g:title>
-      <g:description>Esferas em tamanhos variados criam uma leitura mais din&amp;acirc;mica na curva. Leve, est&amp;aacute;vel e f&amp;aacute;cil de usar no dia a dia. Funciona sozinho ou em composi&amp;ccedil;&amp;atilde;o, Brinco Orbe Fluxo &amp;eacute; uma varia&amp;ccedil;&amp;atilde;o da linha Orbe com mais movimento na forma. &amp;nbsp; CARACTER&amp;Iacute;STICAS Brinco com design de esfera banhado em ouro 18K ou r&amp;oacute;dio branco Tarraxa com 8,2mm, facilita o uso e proporciona um conforto e sustenta&amp;ccedil;&amp;atilde;o. Peso: 10g o par Altura: 3,3cm e Largura: 2,6cm Tamanho esfera :5mm BENEF&amp;Iacute;CIOS Presen&amp;ccedil;a sofisticada para o dia e a noite Hipoalerg&amp;ecirc;nico &amp;bull; Sem n&amp;iacute;quel &amp;bull; Produzido no Brasil Produzido no Brasil com garantia de 12 meses sobre o banho CUIDADOS COM A PE&amp;Ccedil;A Evite contato com perfumes, cremes ou produtos de limpeza Para limpeza, use &amp;aacute;gua e sab&amp;atilde;o neutro. Seque com pano macio Guarde em local seco, em saquinho de tecido ou porta-joias</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>249.90 BRL</g:price>
-      
-      <g:link>https://vessac.com.br/produtos/brinco-orbe-medio?variant=1481995168</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-2350x3000-2-98ef986cbfa36c47da17741277697607-1024-1024.jpg</g:image_link>
-      <g:brand>VESSAC</g:brand>
-      <g:item_group_id>333235408</g:item_group_id>
-    </item>
-    <item>
       <g:id>1482014034</g:id>
       <g:title>Pulseira Vena</g:title>
       <g:description>Estrutura em ramifica&amp;ccedil;&amp;atilde;o com pontos esf&amp;eacute;ricos e ovais ao longo da pe&amp;ccedil;a. Leve no uso, com ajuste por extensor para diferentes medidas de pulso.&amp;nbsp; &amp;nbsp; CARACTER&amp;Iacute;STICAS Pulseira geom&amp;eacute;trica banhada em ouro 18K ou r&amp;oacute;dio branco Comprimento: 16,5cm + 5cm de extensor Fecho lagosta - f&amp;aacute;cil de manusear BENEF&amp;Iacute;CIOS Presen&amp;ccedil;a sofisticada para o dia e a noite Hipoalerg&amp;ecirc;nico &amp;bull; Leve &amp;bull; Sem n&amp;iacute;quel Produzido no Brasil com garantia de 12 meses sobre o banho CUIDADOS COM A PE&amp;Ccedil;A Evite contato com perfumes, cremes ou produtos de limpeza Para limpeza, use &amp;aacute;gua e sab&amp;atilde;o neutro. Seque com pano macio Guarde em local seco, em saquinho de tecido ou porta-joias</g:description>
@@ -5216,32 +5138,6 @@
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-2350x3000-4214f93da09871653917741927500219-1024-1024.jpg</g:image_link>
       <g:brand>VESSAC</g:brand>
       <g:item_group_id>333241089</g:item_group_id>
-    </item>
-    <item>
-      <g:id>1482606400</g:id>
-      <g:title>Pulseira Orbe</g:title>
-      <g:description>A esfera n&amp;atilde;o tem in&amp;iacute;cio nem fim. &amp;Eacute; forma cont&amp;iacute;nua, que sustenta movimento sem interrup&amp;ccedil;&amp;atilde;o. Na Pulseira Orbe, ela percorre o pulso criando ritmo, refletindo a luz de maneira natural e se adaptando com facilidade a diferentes composi&amp;ccedil;&amp;otilde;es. Atemporal e flex&amp;iacute;vel, acompanha o dia com eleg&amp;acirc;ncia e praticidade&amp;mdash; sem excessos, sem precisar mudar. &amp;nbsp; CARACTER&amp;Iacute;STICAS Pulseira com design esf&amp;eacute;rico banhada em ouro 18K ou r&amp;oacute;dio branco Comprimento: 16,5cm + 5cm de extensor Fecho lagosta - f&amp;aacute;cil de manusear BENEF&amp;Iacute;CIOS Presen&amp;ccedil;a sofisticada para o dia e a noite Hipoalerg&amp;ecirc;nico &amp;bull; Leve &amp;bull; Sem n&amp;iacute;quel Produzido no Brasil com garantia de 12 meses sobre o banho CUIDADOS COM A PE&amp;Ccedil;A Evite contato com perfumes, cremes ou produtos de limpeza Para limpeza, use &amp;aacute;gua e sab&amp;atilde;o neutro. Seque com pano macio Guarde em local seco, em saquinho de tecido ou porta-joias</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>269.90 BRL</g:price>
-      
-      <g:link>https://vessac.com.br/produtos/pulseira-orbe?variant=1482606400</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-2350x3000-7-badefe58141af9b9be17742090849861-1024-1024.jpg</g:image_link>
-      <g:brand>VESSAC</g:brand>
-      <g:item_group_id>333350675</g:item_group_id>
-    </item>
-    <item>
-      <g:id>1482606402</g:id>
-      <g:title>Pulseira Orbe</g:title>
-      <g:description>A esfera n&amp;atilde;o tem in&amp;iacute;cio nem fim. &amp;Eacute; forma cont&amp;iacute;nua, que sustenta movimento sem interrup&amp;ccedil;&amp;atilde;o. Na Pulseira Orbe, ela percorre o pulso criando ritmo, refletindo a luz de maneira natural e se adaptando com facilidade a diferentes composi&amp;ccedil;&amp;otilde;es. Atemporal e flex&amp;iacute;vel, acompanha o dia com eleg&amp;acirc;ncia e praticidade&amp;mdash; sem excessos, sem precisar mudar. &amp;nbsp; CARACTER&amp;Iacute;STICAS Pulseira com design esf&amp;eacute;rico banhada em ouro 18K ou r&amp;oacute;dio branco Comprimento: 16,5cm + 5cm de extensor Fecho lagosta - f&amp;aacute;cil de manusear BENEF&amp;Iacute;CIOS Presen&amp;ccedil;a sofisticada para o dia e a noite Hipoalerg&amp;ecirc;nico &amp;bull; Leve &amp;bull; Sem n&amp;iacute;quel Produzido no Brasil com garantia de 12 meses sobre o banho CUIDADOS COM A PE&amp;Ccedil;A Evite contato com perfumes, cremes ou produtos de limpeza Para limpeza, use &amp;aacute;gua e sab&amp;atilde;o neutro. Seque com pano macio Guarde em local seco, em saquinho de tecido ou porta-joias</g:description>
-      <g:availability>out of stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:price>269.90 BRL</g:price>
-      
-      <g:link>https://vessac.com.br/produtos/pulseira-orbe?variant=1482606402</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-2350x3000-7-badefe58141af9b9be17742090849861-1024-1024.jpg</g:image_link>
-      <g:brand>VESSAC</g:brand>
-      <g:item_group_id>333350675</g:item_group_id>
     </item>
     <item>
       <g:id>1486715813</g:id>
@@ -6290,9 +6186,9 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>338.90 BRL</g:price>
-      
+      <g:sale_price>299.90 BRL</g:sale_price>
       <g:link>https://vessac.com.br/produtos/brinco-cacho?variant=1514205373</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-7-3ab4955e2fe99d3d1217773867433830-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-14-7312597d8f23cb4e9317773876464494-1024-1024.jpg</g:image_link>
       <g:brand>VESSAC</g:brand>
       <g:item_group_id>340854063</g:item_group_id>
     </item>
@@ -6303,9 +6199,9 @@
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:price>338.90 BRL</g:price>
-      
+      <g:sale_price>299.90 BRL</g:sale_price>
       <g:link>https://vessac.com.br/produtos/brinco-cacho?variant=1514205378</g:link>
-      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-7-3ab4955e2fe99d3d1217773867433830-1024-1024.jpg</g:image_link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-14-7312597d8f23cb4e9317773876464494-1024-1024.jpg</g:image_link>
       <g:brand>VESSAC</g:brand>
       <g:item_group_id>340854063</g:item_group_id>
     </item>
@@ -6737,6 +6633,58 @@
       <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-40da5eec3830ad874717801768500563-1024-1024.png</g:image_link>
       <g:brand>VESSAC</g:brand>
       <g:item_group_id>347565819</g:item_group_id>
+    </item>
+    <item>
+      <g:id>1535617936</g:id>
+      <g:title>Pulseira Noira Flexível Pedra Marrom</g:title>
+      <g:description>Entre a for&amp;ccedil;a e a suavidade, existe a Noira. Seu design minimalista encontra a profundidade da pedra em tom &amp;acirc;mbar, criando um contraste que chama aten&amp;ccedil;&amp;atilde;o sem pedir por ela. Uma pe&amp;ccedil;a que traduz presen&amp;ccedil;a com leveza e acompanha diferentes momentos &amp;mdash; do look mais essencial &amp;agrave; composi&amp;ccedil;&amp;atilde;o mais marcante. Expresse sua arte com Noira. DETALHES Pulseira em pedra sint&amp;eacute;tica banhada em ouro 18K ou r&amp;oacute;dio branco Levemente flex&amp;iacute;vel Di&amp;acirc;metro: 5,5cm Pedra marrom: sint&amp;eacute;tica BENEF&amp;Iacute;CIOS Garantia de 12 meses. Verniz Antial&amp;eacute;rgico: Com base pal&amp;aacute;dio, o melhor do mercado, ideal para peles sens&amp;iacute;veis. N&amp;iacute;quel Free: Totalmente livre de n&amp;iacute;quel, prevenindo alergias e desconfortos. Fabrica&amp;ccedil;&amp;atilde;o Nacional. Instru&amp;ccedil;&amp;otilde;es de cuidado: Evite contato direto com perfumes, cremes e produtos de limpeza. Se necess&amp;aacute;rio, lave suavemente com &amp;aacute;gua e sab&amp;atilde;o neutro, secando bem em seguida. Guarde em saquinho macio ou porta-joias, livre de umidade, preservando o banho e o brilho original.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>299.90 BRL</g:price>
+      
+      <g:link>https://vessac.com.br/produtos/pulseira-noira-flexivel-pedra-marrom?variant=1535617936</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-d1b5491bbaec9f167117803473132049-1024-1024.jpg</g:image_link>
+      <g:brand>VESSAC</g:brand>
+      <g:item_group_id>347837790</g:item_group_id>
+    </item>
+    <item>
+      <g:id>1535617952</g:id>
+      <g:title>Pulseira Noira Flexível Pedra Marrom</g:title>
+      <g:description>Entre a for&amp;ccedil;a e a suavidade, existe a Noira. Seu design minimalista encontra a profundidade da pedra em tom &amp;acirc;mbar, criando um contraste que chama aten&amp;ccedil;&amp;atilde;o sem pedir por ela. Uma pe&amp;ccedil;a que traduz presen&amp;ccedil;a com leveza e acompanha diferentes momentos &amp;mdash; do look mais essencial &amp;agrave; composi&amp;ccedil;&amp;atilde;o mais marcante. Expresse sua arte com Noira. DETALHES Pulseira em pedra sint&amp;eacute;tica banhada em ouro 18K ou r&amp;oacute;dio branco Levemente flex&amp;iacute;vel Di&amp;acirc;metro: 5,5cm Pedra marrom: sint&amp;eacute;tica BENEF&amp;Iacute;CIOS Garantia de 12 meses. Verniz Antial&amp;eacute;rgico: Com base pal&amp;aacute;dio, o melhor do mercado, ideal para peles sens&amp;iacute;veis. N&amp;iacute;quel Free: Totalmente livre de n&amp;iacute;quel, prevenindo alergias e desconfortos. Fabrica&amp;ccedil;&amp;atilde;o Nacional. Instru&amp;ccedil;&amp;otilde;es de cuidado: Evite contato direto com perfumes, cremes e produtos de limpeza. Se necess&amp;aacute;rio, lave suavemente com &amp;aacute;gua e sab&amp;atilde;o neutro, secando bem em seguida. Guarde em saquinho macio ou porta-joias, livre de umidade, preservando o banho e o brilho original.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>299.90 BRL</g:price>
+      
+      <g:link>https://vessac.com.br/produtos/pulseira-noira-flexivel-pedra-marrom?variant=1535617952</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-d1b5491bbaec9f167117803473132049-1024-1024.jpg</g:image_link>
+      <g:brand>VESSAC</g:brand>
+      <g:item_group_id>347837790</g:item_group_id>
+    </item>
+    <item>
+      <g:id>1535689196</g:id>
+      <g:title>Pulseira Noira Flexível Pedra Preta</g:title>
+      <g:description>Entre a for&amp;ccedil;a e a suavidade, existe a Noira. Seu design minimalista encontra a profundidade da pedra em tom &amp;acirc;mbar, criando um contraste que chama aten&amp;ccedil;&amp;atilde;o sem pedir por ela. Uma pe&amp;ccedil;a que traduz presen&amp;ccedil;a com leveza e acompanha diferentes momentos &amp;mdash; do look mais essencial &amp;agrave; composi&amp;ccedil;&amp;atilde;o mais marcante. Expresse sua arte com Noira. DETALHES Pulseira em pedra sint&amp;eacute;tica banhada em ouro 18K ou r&amp;oacute;dio branco Levemente flex&amp;iacute;vel Di&amp;acirc;metro: 5,5cm Pedra preta: sint&amp;eacute;tica BENEF&amp;Iacute;CIOS Garantia de 12 meses. Verniz Antial&amp;eacute;rgico: Com base pal&amp;aacute;dio, o melhor do mercado, ideal para peles sens&amp;iacute;veis. N&amp;iacute;quel Free: Totalmente livre de n&amp;iacute;quel, prevenindo alergias e desconfortos. Fabrica&amp;ccedil;&amp;atilde;o Nacional. Instru&amp;ccedil;&amp;otilde;es de cuidado: Evite contato direto com perfumes, cremes e produtos de limpeza. Se necess&amp;aacute;rio, lave suavemente com &amp;aacute;gua e sab&amp;atilde;o neutro, secando bem em seguida. Guarde em saquinho macio ou porta-joias, livre de umidade, preservando o banho e o brilho original.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>299.90 BRL</g:price>
+      
+      <g:link>https://vessac.com.br/produtos/pulseira-noira-pedra-preta?variant=1535689196</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-8-693aa4b6f42901a1c417803497007317-1024-1024.jpg</g:image_link>
+      <g:brand>VESSAC</g:brand>
+      <g:item_group_id>347855878</g:item_group_id>
+    </item>
+    <item>
+      <g:id>1535689202</g:id>
+      <g:title>Pulseira Noira Flexível Pedra Preta</g:title>
+      <g:description>Entre a for&amp;ccedil;a e a suavidade, existe a Noira. Seu design minimalista encontra a profundidade da pedra em tom &amp;acirc;mbar, criando um contraste que chama aten&amp;ccedil;&amp;atilde;o sem pedir por ela. Uma pe&amp;ccedil;a que traduz presen&amp;ccedil;a com leveza e acompanha diferentes momentos &amp;mdash; do look mais essencial &amp;agrave; composi&amp;ccedil;&amp;atilde;o mais marcante. Expresse sua arte com Noira. DETALHES Pulseira em pedra sint&amp;eacute;tica banhada em ouro 18K ou r&amp;oacute;dio branco Levemente flex&amp;iacute;vel Di&amp;acirc;metro: 5,5cm Pedra preta: sint&amp;eacute;tica BENEF&amp;Iacute;CIOS Garantia de 12 meses. Verniz Antial&amp;eacute;rgico: Com base pal&amp;aacute;dio, o melhor do mercado, ideal para peles sens&amp;iacute;veis. N&amp;iacute;quel Free: Totalmente livre de n&amp;iacute;quel, prevenindo alergias e desconfortos. Fabrica&amp;ccedil;&amp;atilde;o Nacional. Instru&amp;ccedil;&amp;otilde;es de cuidado: Evite contato direto com perfumes, cremes e produtos de limpeza. Se necess&amp;aacute;rio, lave suavemente com &amp;aacute;gua e sab&amp;atilde;o neutro, secando bem em seguida. Guarde em saquinho macio ou porta-joias, livre de umidade, preservando o banho e o brilho original.</g:description>
+      <g:availability>in stock</g:availability>
+      <g:condition>new</g:condition>
+      <g:price>299.90 BRL</g:price>
+      
+      <g:link>https://vessac.com.br/produtos/pulseira-noira-pedra-preta?variant=1535689202</g:link>
+      <g:image_link>https://acdn-us.mitiendanube.com/stores/001/971/422/products/foto-site-nuvemshop-8-693aa4b6f42901a1c417803497007317-1024-1024.jpg</g:image_link>
+      <g:brand>VESSAC</g:brand>
+      <g:item_group_id>347855878</g:item_group_id>
     </item>
   </channel>
 </rss>
